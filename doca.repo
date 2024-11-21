@@ -1,0 +1,11 @@
+[doca]
+name=DOCA 2.8.0-0.0.7
+baseurl=file:///usr/share/doca-host-2.8.0/repo
+enabled=1
+gpgcheck=0
+
+[doca-source]
+name=DOCA 2.8.0-0.0.7 SOURCE
+baseurl=file:///usr/share/doca-host-2.8.0/source
+enabled=1
+gpgcheck=0
